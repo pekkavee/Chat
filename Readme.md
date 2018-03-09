@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/pekkavee/Chat/blob/master/screenshots/Login.PNG"350" height="500"/>
+  <img src="https://github.com/pekkavee/Chat/blob/master/screenshots/Login.PNG"350" height="300"/>
 </p>
                                                                                                                                            
 <p align="center">
